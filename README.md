@@ -5,6 +5,8 @@ My first ever coding project that I made in 2014. It is a working blackjack prog
 
 This project is currently hosted on a Amazon S3 server. Please feel free to give it a go!
 
-<b>Demo:</b>
+<a href="https://s3-us-west-1.amazonaws.com/blackjack-raylu/index.html" rel="nofollow"><strong>Demo</strong></a>
 
-https://s3-us-west-1.amazonaws.com/blackjack-raylu/index.html
+
+
+
